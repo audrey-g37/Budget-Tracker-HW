@@ -20,7 +20,7 @@ Type the title of the transaction, along with the amount. Then click the respect
 
 ![Example Team File](./images/screenshot-of-site.png)
 
-![Live Site](https://enigmatic-thicket-60176.herokuapp.com/)
+!(Live Site)(https://enigmatic-thicket-60176.herokuapp.com/)
 
 ## License
 
